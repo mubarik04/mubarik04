@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mubarik04
+- 👋 Hi, I’m @mubarik04!
 - 👀 I’m interested in Software Development Apprenticeships and Vacancies
 - 🌱 I’m currently learning JavaScript, HTML and CSS
 - 💞️ I’m looking to collaborate on projects which require cohesive teamworking...
